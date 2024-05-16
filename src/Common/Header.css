@@ -1,0 +1,118 @@
+.head {
+    display: flex;
+    color: #F5F5F5;
+    margin-left: 7vh;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 16px;
+
+}
+
+hr {
+  width: 220.5vh; 
+  margin-top: -0.5vh;
+}
+
+.head h4{
+    margin-left: 10vh;
+}
+.navbar{
+  margin-left: 10vh;
+  margin-top: -1vh;
+}
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-top: 3.5vh;
+  margin-left: 42vh;
+  width: 50vh;
+}
+.navbar ul li {
+  display: inline;
+  font-size: 18px;
+  margin-left: 7vh;
+}
+.login{
+  margin-top: -8vh;
+  margin-left: 40vh;
+}
+.navbar .sign{
+  font-size: 15px;
+  color: white;
+  background-color: transparent;
+  border: #E0B100 1px solid;
+  border-radius: 20px;
+  width: 12vh;
+  height: 5vh;
+}
+.nrs{
+  margin-left: 130vh;
+  margin-top: -4vh;
+}
+.one{
+  background-color: transparent;
+    border: none;
+    text-decoration: dashed;
+    color: rgb(255, 255, 255);
+    width: 7vh;
+    height: 24px;
+}
+.navbar1 {
+    color: #fff;
+    padding: 10px;
+    margin-left: 100vh;
+    margin-top: -8vh;
+  }
+  
+  .navbar1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 50vh;
+    width: 100vh;
+    font-family: Inter;
+  }
+  
+  .navbar1 ul li {
+    display: inline;
+    margin-right: 10px;
+    font-size: 18px;
+    margin-left: 7vh;
+  }
+ 
+  .navbar1 ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .head2{
+    font-size: 15px;
+    color:#E0B100;
+    margin-top: 3vh;
+    margin-left: -40vh;
+  }
+  .input{
+    margin-left: -42vh;
+  }
+  .input input{
+    background-color: transparent;
+    border: none;
+    text-decoration: dashed;
+    color: white;
+    width: 40vh;
+    height: 24px;
+    margin-left: 150px;
+  }
+  .input label{
+    margin-left: -30px;
+    color: white;
+    border: none;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    width: 402px;
+    height: 24px;
+  }
+  

@@ -1,0 +1,209 @@
+html {
+    overflow-x: hidden;
+  }
+  
+  .main h1{
+      width: 828px;
+      height: 80px;
+      margin-top: 50px;
+      margin-left: 120px;
+      font-family: Inter;
+      font-size: 50px;
+      font-weight: 600;
+      line-height: 80px;
+      text-align: left;
+      color: #F5F5F5;
+  }
+  .main p{
+      width: 828px;
+      height: 104px;
+      margin-left: 120px; 
+      font-family: Inter;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 26px;
+      text-align: left;
+      color: #F5F5F5;
+  
+  }
+  
+  .input{
+      margin-left: -42vh;
+      margin-top: 5vh;
+    }
+    .input input{
+      border: none;
+      outline: none;
+      background: transparent;
+      text-decoration: dashed;
+      color: white;
+      width: 40vh;
+      height: 24px;
+      margin-left: 130px;
+      margin-top: 2vh;
+      border-bottom: 1px solid rgb(224, 216, 216);
+    }
+    .icon{
+      position: absolute;
+      color: whitesmoke;
+      margin-left: 18.2vh;
+      margin-top: 2vh;
+    }
+    .input label{
+      margin-left: -30px;
+      color: white;
+      border: none;
+      font-family: Inter;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      width: 402px;
+      height: 24px;
+    }
+    .input :placeholder-shown{
+      font-size: 15px;
+      padding-left: 3vh;
+      padding-bottom: 2vh;
+    }
+   
+  
+  
+    .input1{
+      margin-left: 35vh;
+      margin-top: -11.3vh;
+    }
+    .input1 input{
+      border: none;
+      outline: none;
+      background: transparent;
+      color: white;
+      width: 40vh;
+      height: 24px;
+      margin-left: 30vh;
+      margin-top: 0.2vh;
+      border-bottom: 1px solid white;
+    }
+    .icon1{
+      padding-left: 24.8vh;
+      padding-top: 20px;
+      position: absolute;
+      color: whitesmoke;
+      margin-left: 5vh;
+    }
+    .one{
+      margin-left: 10vh;
+      color: white;
+      border: none;
+      font-family: Inter;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 10px;
+      width: 402px;
+      height: 24px;
+    }
+    .input1 :placeholder-shown{
+      font-size: 15px;
+      padding-left: 3vh;
+      padding-top: 2.3vh;
+      padding-bottom: 2.1vh;
+    }
+  
+    .input2{
+      margin-left: -55vh;
+      margin-top: 5vh;
+    }
+    .input2 input{
+      outline: none;
+      background: transparent;
+      border: none;
+      text-decoration: dashed;
+      color: white;
+      width: 40vh;
+      height: 24px;
+      margin-left: 32vh;
+      margin-top: 2vh;
+      border-bottom: 1px solid white;
+    }
+  
+    .icon2{
+      position: absolute;
+      color: whitesmoke;
+      margin-left: -6.2vh;
+      margin-top: 5.8vh;
+    }
+    .input2 label{
+      margin-left: -6vh;
+      margin-top: -1vh;
+      color: white;
+      border: none;
+      font-family: Inter;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      width: 402px;
+      height: 24px;
+    }
+    .input2 :placeholder-shown{
+      font-size: 15px;
+      padding-left: 3vh;
+      padding-bottom: 2vh;
+    }
+  
+  
+    .input3{
+      margin-left: 35vh;
+      margin-top: -9.5vh;
+    }
+    .input3 .passenger{
+      border: none;
+      outline: none;
+      background: transparent;
+      text-decoration: dashed;
+      color: rgb(114, 110, 110);
+      width: 44vh;
+      height: 24px;
+      margin-left: 30vh;
+      margin-top: 2.5vh;
+      border-bottom: 1px solid white;
+    }
+    .icon3{
+      position: absolute;
+      color: whitesmoke;
+      margin-left: 5vh;
+      margin-top: 6vh;
+    }
+    .input3 label{
+      margin-left: 5vh;
+      color: white;
+      border: none;
+      font-family: Inter;
+      font-size: 16px;
+      font-weight: 600;
+      line-height: 24px;
+      width: 50vh;
+      height: 24px;
+    }
+    .passenger select, option{
+      background-color: transparent;
+    }
+    .passenger{
+      padding-left: 2vh;
+    }
+    .pass{
+      padding-bottom: vh;
+    }
+  
+    .search{
+      margin-left: 105vh;
+      margin-top: 5vh;
+      width: 20vh;
+    }
+    .search button{
+      font-size: 15px;
+    color: white;
+    background-color: transparent;
+    border: #E0B100 1px solid;
+    border-radius: 20px;
+    width: 22vh;
+    height: 5vh;
+    }
